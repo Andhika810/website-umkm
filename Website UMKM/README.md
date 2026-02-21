@@ -1,5 +1,7 @@
 # 🍽️ Website UMKM
 
+> Website UMKM kuliner sederhana (HTML/CSS/JS/PHP).
+
 Website UMKM adalah project website sederhana berbasis HTML, CSS, JavaScript, dan PHP yang dirancang untuk menampilkan produk makanan serta menyediakan fitur pemesanan dan kontak.
 
 Project ini dibuat sebagai latihan pengembangan website UMKM kuliner.
