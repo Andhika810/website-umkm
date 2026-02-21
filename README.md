@@ -1,10 +1,44 @@
-# Re-Branding Website UMKM Malang Menggunakan HTML, CSS dan Javascript
+# 🍽️ Website UMKM
 
-Membuat aplikasi Website Re-Branding produk dari sebuah toko UMKM di malang menggunakan HTML, CSS, dan JavaScript. Dalam pembuatan website ini terdapat fitur Home, About, List Produk, Download Menu Produk (PDF), Dokumentasi Foto maupun Video, Kolom Pemesanan hingga Contact UMKM.
+> Website UMKM kuliner sederhana (HTML/CSS/JS/PHP).
 
-# Tampilan Website
+Website UMKM adalah project website sederhana berbasis HTML, CSS, JavaScript, dan PHP yang dirancang untuk menampilkan produk makanan serta menyediakan fitur pemesanan dan kontak.
 
-Berikut Tampilan fitur website :
+Project ini dibuat sebagai latihan pengembangan website UMKM kuliner.
 
-![UI Home](https://github.com/syadessya26/Website-Produk-UMKM-Menggunakan-HTML-CSS-dan-Javascript/assets/81345337/1fb69473-7506-41e9-a48e-5bc8807db433)
+---
 
+## ✨ Fitur Utama
+
+- Landing Page
+- Katalog Produk Makanan
+- Detail Produk
+- Form Pemesanan
+- Form Kontak
+- Desain Responsif
+- Integrasi Bootstrap & FontAwesome
+
+---
+
+## 🛠️ Teknologi
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Bootstrap
+- FontAwesome
+
+---
+
+## 📂 Struktur Project
+
+
+---
+
+## 🚀 Cara Menjalankan
+
+1. Clone repository ini
+2. Letakkan folder di htdocs (XAMPP/Laragon)
+3. Jalankan Apache
+4. Buka di browser.
