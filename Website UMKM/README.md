@@ -39,4 +39,4 @@ Project ini dibuat sebagai latihan pengembangan website UMKM kuliner.
 1. Clone repository ini
 2. Letakkan folder di htdocs (XAMPP/Laragon)
 3. Jalankan Apache
-4. Buka di browser:
+4. Buka di browser.
